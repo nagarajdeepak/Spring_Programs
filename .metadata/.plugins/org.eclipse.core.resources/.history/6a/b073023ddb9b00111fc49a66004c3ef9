@@ -1,0 +1,5 @@
+package com.example.studentmarks.aspect;
+
+public class logginaspect {
+
+}

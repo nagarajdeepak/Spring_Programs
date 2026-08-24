@@ -1,0 +1,5 @@
+package com.example.movieticket.entity;
+
+public class Ticket {
+
+}

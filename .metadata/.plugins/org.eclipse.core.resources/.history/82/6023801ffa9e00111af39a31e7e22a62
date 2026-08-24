@@ -1,0 +1,12 @@
+package com.example.movieticket.repository;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.example.movieticket.entity.Ticket;
+
+public class TicketRepository extends JpaRepository<Ticket, Long> {
+	List<Ticket> findByMovieName(String movieName);
+	Optional<Ticket> findByMovieAndSeatNumber(String movieName, String seatNumber);
+	boolean existsByMovieNameAndSeatNumber(String movieName, String seatNumber);
+}

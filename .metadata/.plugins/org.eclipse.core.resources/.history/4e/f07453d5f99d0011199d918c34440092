@@ -1,0 +1,9 @@
+package com.example.hospital.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+@Table(name=)
+public class Appointment {
+
+}

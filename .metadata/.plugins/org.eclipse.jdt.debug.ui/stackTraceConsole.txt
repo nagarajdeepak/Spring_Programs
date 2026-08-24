@@ -1,0 +1,7 @@
+{
+    "id": 101,
+    "name": "Deepak",
+    "java": 85,
+    "spring": 90,
+    "sql": 80
+}

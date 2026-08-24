@@ -1,0 +1,5 @@
+package com.example.studentmarks.model;
+
+public class student {
+
+}
