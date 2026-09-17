@@ -1,3 +1,2 @@
-2026/08/23-23:19:57.328 2bcc Reusing MANIFEST C:\Users\HP\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
-2026/08/23-23:19:57.329 2bcc Recovering log #3
-2026/08/23-23:19:57.331 2bcc Reusing old log C:\Users\HP\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+2026/09/17-01:05:44.826 3954 Creating DB C:\Users\HP\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/09/17-01:05:44.866 3954 Reusing MANIFEST C:\Users\HP\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
